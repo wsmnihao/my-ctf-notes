@@ -2,6 +2,8 @@
 
 # 🛡️ 我的CTF知识体系
 
+![Stars](https://img.shields.io/github/stars/wsmnihao/my-ctf-notes?style=social)
+
 > 从Web安全入门到全栈CTF选手的成长记录
 
 ## 🗂️ 快速导航
