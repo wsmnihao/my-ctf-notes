@@ -8,6 +8,10 @@
 		只有配置不当
 [[PHP反序列化&串行化]]
 ## 解题过程
+
+<img width="813" height="577" alt="屏幕截图 2025-11-01 111532" src="https://github.com/user-attachments/assets/2c013e34-c76c-42d5-b444-8042b2e6ec8c" />
+
+
 ### 漏洞发现
 ```代码
 	1、信息挖掘
